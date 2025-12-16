@@ -11,4 +11,4 @@ Machine Learning.
 
 ## Getting Started
 To get started with this project, clone the repository and
-navigate to the `Python` folder
+navigate to the `Python` folder.
